@@ -2,7 +2,7 @@
 
 | Session | Title                                               | Key Topics Covered                                                                 |
 |---------|-----------------------------------------------------|------------------------------------------------------------------------------------|
-| 1       | 🧭 Introduction to Optimization in Machine Learning | Role of optimization in ML, loss functions, practical failures, project framing   |
+| 1       | [🧭 Introduction to Optimization in Machine Learning](https://github.com/mnoorchenar/Courses/tree/main/INFO-6154%20Machine%20Learning%20Optimization%20Strategies/%F0%9F%A7%AD%20Introduction%20to%20Optimization%20in%20Machine%20Learning) | Role of optimization in ML, loss functions, practical failures, project framing   |
 | 2       | 🧮 Gradient Descent and Its Variants                | GD, SGD, mini-batch, momentum, when and why to use each                           |
 | 3       | ⚙️ Optimizers in Practice                           | Adam, RMSProp, AdamW; learning rate tuning; scheduler types (step, cosine, etc.)  |
 | 4       | 🧪 Hyperparameter Tuning Basics                     | Search space design, grid search, random search, validation strategies            |
