@@ -1,45 +1,33 @@
 # 📚 Further Reading – Introduction to Optimization in Machine Learning
 
-This section supports the lecture content for **Session 1: Introduction to Optimization in ML**, covering what optimization is, its key components, and the types of problems it solves.
+This section supports **Session 1: Introduction to Optimization in ML**, exploring what optimization is, its role in machine learning, and the fundamentals behind training models.
 
 ---
 
-## 📘 Core Articles & Papers
+## 📘 Core Learning Resources
 
-- [An Overview of Gradient Descent Optimization Algorithms – Sebastian Ruder (arXiv, 2016)](https://arxiv.org/abs/1609.04747)  
-  A must-read overview of optimization methods, their pros/cons, and best use cases.
+These interactive resources from Google’s ML Crash Course offer a hands-on introduction to optimization concepts using linear regression:
 
-- [A Modern Look at Gradient Descent – ArXiv (2022)](https://arxiv.org/abs/2203.11819)  
-  A recent take on the theory and improvements around gradient-based optimization.
+- 🔢 [Linear Regression Overview](https://developers.google.com/machine-learning/crash-course/linear-regression)  
+  Understand how models learn from data through parameter adjustment.
 
-- [Understanding the Difficulty of Training Deep Feedforward Neural Networks – Glorot & Bengio (2010)](https://proceedings.mlr.press/v9/glorot10a.html)  
-  Highlights the importance of initialization and optimization challenges in deep nets.
+- 📉 [Loss Function](https://developers.google.com/machine-learning/crash-course/linear-regression/loss)  
+  Explore how loss functions measure prediction error and guide optimization.
 
----
-
-## 🧰 Blogs & Visual Guides
-
-- [A Visual Introduction to Optimization Algorithms – Sebastian Raschka (2022)](https://sebastianraschka.com/blog/2022/optimizers.html)  
-  Highly intuitive visual comparisons of popular optimizers.
-
-- [Why Momentum Really Works – Distill.pub](https://distill.pub/2017/momentum/)  
-  A powerful visual explanation of how momentum improves convergence.
-
-- [Google ML Crash Course: Loss and Optimization](https://developers.google.com/machine-learning/crash-course/reducing-loss/gradient-descent)  
-  Practical guide with animations explaining loss minimization and gradient updates.
-
----
-
-## 🧪 Tutorials & Code Examples
-
-- [Gradient Descent from Scratch – Jason Brownlee](https://machinelearningmastery.com/gradient-descent-algorithm-from-scratch/)  
-  Walkthrough of implementing basic gradient descent manually in Python.
-
-- [CS231n Optimization Notes – Stanford](https://cs231n.github.io/optimization-1/)  
-  Excellent lecture-style notes that cover loss landscapes and gradient behaviors.
+- ⚙️ [Tune Model Parameters (Interactive)](https://developers.google.com/machine-learning/crash-course/linear-regression/parameters-exercise)  
+  Try manually adjusting weights and biases to minimize loss in real time.
 
 ---
 
 ## 🧠 Bonus Insight
 
-> "Optimization is not just a computational step — it's the core logic that enables models to learn from data. Choosing the right loss function and optimizer is as important as the model architecture itself."
+> *"Optimization is not just a computational step — it's the core logic that enables models to learn from data. Choosing the right loss function and optimizer is as important as the model architecture itself."*
+
+---
+
+## 🎨 Optional – Visualization-Rich Resource
+
+If you're a visual learner, this site is highly recommended:
+
+- 📊 [Distill.pub: Visualizing Gradient Descent](https://distill.pub/2017/momentum/)  
+  Beautiful, interactive explanations of optimization techniques like gradient descent and momentum.
