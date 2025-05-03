@@ -38,5 +38,10 @@ For visual learners, these interactive and animated explanations make it easier 
 - 📝 [SKZ Dev Blog: Gradient Descent](https://blog.skz.dev/gradient-descent)  
   A detailed walkthrough of gradient descent concepts with accompanying visualizations to enhance understanding.
 
+- 🧠 [TensorFlow Playground](https://playground.tensorflow.org/)  
+  A hands-on, interactive environment to visualize how neural networks learn via gradient descent — tweak architecture, activation, and learning rate in real-time.
+
+- 🔍 [Backprop Explainer by XNought](https://xnought.github.io/backprop-explainer/)  
+  An intuitive, step-by-step walkthrough of backpropagation and gradients, making it easier to understand how gradients flow through a neural network.
 ---
 
