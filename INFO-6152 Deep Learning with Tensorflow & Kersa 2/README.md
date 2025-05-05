@@ -25,28 +25,6 @@
 | Final Project     | 30%    |
 | Final Exam        | 30%    |
 
-
-## 🚀 Final Project – 30%
-
-Students will design, implement, and evaluate an end-to-end deep learning solution using **TensorFlow and Keras**, selecting one or more of the following architectures: **CNN, LSTM, GRU, Transformer, or GAN**.
-
-Final deliverables must include:
-
-- A clear, well-structured **written report** explaining:
-  - Problem statement and objective
-  - Data processing and model design decisions
-  - Coding logic and implementation flow
-  - Observations and lessons learned
-
-- **Well-documented source code** answering all relevant coding tasks and questions provided
-
-- A **Results Section** clearly detailing:
-  - Evaluation metrics and outcomes
-  - Visualizations (if applicable)
-  - Interpretations of performance
-
-- A concise **oral presentation and Q&A session** during the final week (Week 15)
-
 ---
 
 This course explores advanced deep learning concepts through hands-on implementation using TensorFlow and Keras. Students will gain experience with CNNs, RNNs (including LSTM and GRU), Transformer models, and GANs, while solving real-world problems and presenting their solutions.

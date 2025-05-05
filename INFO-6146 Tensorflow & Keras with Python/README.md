@@ -24,20 +24,4 @@
 | Final Project     | 30%    |
 | Final Exam        | 30%    |
 
-**Quizzes**  
-- Quiz #1 (6.67%): Weeks 1–2  
-- Quiz #2 (6.67%): Weeks 3–5  
-- Quiz #3 (6.67%): Weeks 6–9  
-
-**In-Class Activities**  
-- Activity #1 (5%): Based on Weeks 1–4  
-- Activity #2 (5%): Based on Weeks 5–7  
-
-**Final Project – 40%**  
-Students will design, implement, and present an end-to-end deep learning solution using TensorFlow and Keras. The final deliverables must include:  
-- A **written report** that clearly explains the code, architecture choices, and learning strategies  
-- Well-documented and functional **source code** answering provided coding questions  
-- A **results section** analyzing model performance, evaluation metrics, and key takeaways  
-- A brief **presentation** of the project during Week 13  
-
 This course offers a hands-on and applied journey into deep learning using TensorFlow and Keras. Students will build and tune real models, extract and preprocess open data, and implement both supervised and unsupervised learning. The course culminates with advanced sequence modeling using HMMs and a final project demonstrating technical, analytical, and communication skills.
