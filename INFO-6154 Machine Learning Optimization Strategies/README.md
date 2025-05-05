@@ -1,6 +1,6 @@
 # 📘 Applied Machine Learning Optimization – Course Outline
 
-| Session | Title                                               | Key Topics Covered                                                                 |
+| Week | Title                                               | Key Topics Covered                                                                 |
 |---------|-----------------------------------------------------|------------------------------------------------------------------------------------|
 | 1       | 🧭 Introduction to Optimization in Machine Learning | Role of optimization in ML, loss functions, practical failures, project framing   |
 | 2       | 🧮 Gradient Descent and Its Variants                | GD, SGD, mini-batch, momentum, when and why to use each                           |
@@ -19,9 +19,9 @@
 ## 🧾 Marking Scheme
 
 | Component         | Weight |
-|------------------|--------|
-| In-Class Activity | 20%    |
-| Assignments       | 20%    |
+|-------------------|--------|
+| In-Class Activity (5 total) | 20%    |
+| Quizzes (4 total) | 20%    |
 | Final Project     | 30%    |
 | Final Exam        | 30%    |
 

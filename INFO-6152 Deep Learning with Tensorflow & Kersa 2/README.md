@@ -18,27 +18,13 @@
 | 14   | 🎤 Final Project Presentations                                       | Student presentations on final projects                                                                                                                                |
 
 ## 🧾 Marking Scheme
+| Component         | Weight |
+|-------------------|--------|
+| In-Class Activity (5 total) | 20%    |
+| Quizzes (4 total) | 20%    |
+| Final Project     | 30%    |
+| Final Exam        | 30%    |
 
-| Component           | Weight  |
-|--------------------|---------|
-| In-Class Activities (4 total) | 20%     |
-| Quizzes (3 required + 1 optional) | 30%     |
-| Final Project                 | 30%     |
-| Final Presentation + Q&A     | 20%     |
-
-### 📚 Quizzes
-- **Quiz 1 (10%)** – Based on Weeks 1–3  
-- **Quiz 2 (10%)** – Based on Weeks 4–7  
-- **Quiz 3 (10%)** – Based on Weeks 9–12  
-- **Optional Quiz 4 (10%)** – Based on Weeks 13–14  
-
-### 🧑‍🏫 In-Class Activities
-- **Activity 1 (5%)** – Weeks 1–2  
-- **Activity 2 (5%)** – Weeks 4–6  
-- **Activity 3 (5%)** – Weeks 8–10  
-- **Activity 4 (5%)** – Weeks 11–12  
-
----
 
 ## 🚀 Final Project – 30%
 

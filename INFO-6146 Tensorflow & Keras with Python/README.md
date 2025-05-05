@@ -13,17 +13,16 @@
 | 11   | ⏳ Sequence Modeling with HMMs                               | HMM fundamentals: Markov property, hidden states, observable outputs; HMM architecture (transition, emission, initial probabilities); Forward, Backward, Viterbi, Forward-Backward algorithms; supervised vs. unsupervised training (Baum-Welch, EM); model selection (likelihood, AIC, BIC) |
 | 12   | 🛠️ HMM Implementation, Inference & Keras Recap              | Implementing HMMs using Python/hmmlearn; simulated weather modeling; inference with Viterbi; evaluating and visualizing HMMs; initialization/convergence issues; summary of Keras APIs (compile, fit, evaluate, predict); model configuration best practices |
 | 13   | 🎤 Final Project Presentations                               | Student-led final project presentations |
-| 14   | 🧪 Final Exam                                                | 3-hour exam: theory and practical |
+| 14   | 🧪 Final Exam                                                |theory and practical |
 
 
 ## 🧾 Marking Scheme
-
-| Component           | Weight  |
-|--------------------|---------|
-| In-Class Activities (2 total) | 10%     |
-| Quizzes (3 total)             | 20%     |
-| Final Project                 | 40%     |
-| Final Exam                    | 30%     |
+| Component         | Weight |
+|-------------------|--------|
+| In-Class Activity (5 total) | 20%    |
+| Quizzes (4 total) | 20%    |
+| Final Project     | 30%    |
+| Final Exam        | 30%    |
 
 **Quizzes**  
 - Quiz #1 (6.67%): Weeks 1–2  
