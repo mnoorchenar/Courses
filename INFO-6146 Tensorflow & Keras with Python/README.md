@@ -1,3 +1,4 @@
+# 📘 Tensorflow & Keras with Python – Course Outline
 | Week | Title                                                        | Key Topics Covered |
 |------|--------------------------------------------------------------|--------------------|
 | 1    | 🔍 Deep Learning Fundamentals I                              | Overview of AI, ML, and DL; ML challenges; learning algorithms (supervised, unsupervised, reinforcement); feature engineering limitations; tensors and data representation; optimization (gradient descent); overfitting and regularization |
@@ -12,8 +13,8 @@
 | 10   | 🧩 VAEs and Clustering with Neural Networks                  | Variational Autoencoders: probabilistic latent spaces, reparameterization trick, reconstruction + KL loss; feature extraction; clustering with encoder + K-Means/DBSCAN; practical implementation and visualization in Keras |
 | 11   | ⏳ Sequence Modeling with HMMs                               | HMM fundamentals: Markov property, hidden states, observable outputs; HMM architecture (transition, emission, initial probabilities); Forward, Backward, Viterbi, Forward-Backward algorithms; supervised vs. unsupervised training (Baum-Welch, EM); model selection (likelihood, AIC, BIC) |
 | 12   | 🛠️ HMM Implementation, Inference & Keras Recap              | Implementing HMMs using Python/hmmlearn; simulated weather modeling; inference with Viterbi; evaluating and visualizing HMMs; initialization/convergence issues; summary of Keras APIs (compile, fit, evaluate, predict); model configuration best practices |
-| 13   | 🎤 Final Project Presentations                               | Student-led final project presentations |
-| 14   | 🧪 Final Exam                                                |theory and practical |
+| 13   | 🎤 Final Project Presentations                                    | Student presentations on final projects |
+| 14   | 🧪 Final Exam                                                     | theory and practical |
 
 
 ## 🧾 Marking Scheme
