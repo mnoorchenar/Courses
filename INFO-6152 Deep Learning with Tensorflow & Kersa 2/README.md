@@ -1,3 +1,5 @@
+# 📘 Deep Learning with Tensorflow & Kersa 2 – Course Outline
+
 | Week | Title                                                                 | Key Topics Covered                                                                                                                                                      |
 |------|-----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1    | 🧠 Introduction to ANNs and Limitations in Image Processing          | Review of Artificial Neural Networks (ANNs): components (neurons, layers, weights/bias, activation functions, loss functions, optimizers); practical ANN implementation in Keras (model creation, compilation, training, and evaluation); digit recognition case study with MNIST dataset; performance metrics (accuracy, precision, recall); limitations of ANNs with high-dimensional image data (lack of spatial awareness, computational cost, overfitting, translation invariance); need for CNNs in image processing |
