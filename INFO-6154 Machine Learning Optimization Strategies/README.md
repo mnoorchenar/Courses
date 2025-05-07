@@ -13,9 +13,8 @@
 | 10   | 🔍 Explainability-Driven Tuning                               | Using SHAP, LIME to guide optimization; constrained tuning (e.g., monotonicity, fairness); human-in-the-loop workflows                                               | [SHAP Visual Demo](https://shap.readthedocs.io/en/latest/example_notebooks.html)<br><br>[LIME Interactive Notebook](https://marcotcr.github.io/lime/tutorials/Tutorial%20-%20models%20with%20sklearn.html) |
 | 11   | 🧰 Experiment Tracking & Optimization Visualization           | Tools: TensorBoard, Weights & Biases, MLflow; hyperparameter dashboards, loss/accuracy curves, sweep comparisons; reproducibility best practices                     | [Weights & Biases Demo](https://wandb.ai/site)<br><br>[MLflow Tracking UI](https://mlflow.org/docs/latest/tracking.html) |
 | 12   | 🚀 Capstone Project: End-to-End Optimization Workflow         | Full pipeline: framing the objective, selecting optimizer, tuning, evaluating, and deploying; performance-vs-cost-vs-interpretability balancing                       | [TensorBoard Project Dashboard](https://www.tensorflow.org/tensorboard/get_started)<br><br>[ML Deployment Guide (TensorFlow)](https://www.tensorflow.org/tfx/guide/serving) |
-| 13   | 🎤 Final Project Presentations                                | Student-led presentations: objective, tuning strategy, results analysis                                                                                               | |
-| 14   | 🧪 Final Exam                                                 | Theory + practical case-based exam (real-world scenarios + tool usage + debugging)                                                                                    | |
-
+| 13   | 🧪 Final Exam                                                 | Theory + practical case-based exam (real-world scenarios + tool usage + debugging)                                                                                    | |
+| 14   | 🎤 Final Project Presentations                                | Student-led presentations: objective, tuning strategy, results analysis                                                                                               | |
 
 ## 🧾 Marking Scheme
 
