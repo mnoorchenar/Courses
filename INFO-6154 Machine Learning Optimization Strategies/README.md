@@ -1,24 +1,6 @@
-<style>
-  table {
-    table-layout: fixed;
-    width: 100%;
-  }
-  th, td {
-    overflow-wrap: break-word;
-    word-break: break-word;
-  }
-
-  /* target the 3rd column in every table header AND body */
-  th:nth-child(3),
-  td:nth-child(3) {
-    width: 200px;        /* or whatever you choose */
-    /* you can also use %: width: 30%; */
-  }
-</style>
-
 # 📘 Machine Learning Optimization Strategies – Course Outline
-| Week | Title                                                        | Key Topics Covered                                                                                                                                                   | Interactive Link |
-|------|--------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| Week | Title                                                        | Key Topics Covered                                                                                                                                                  | Interactive Link                                                                                                                                                    |
+|------|--------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1    | 🧭 Foundations of Optimization in Machine Learning            | Optimization problem types in ML; loss surfaces, local minima, saddle points; convergence issues; real-world failures; goal framing: accuracy vs latency vs fairness | [Play with gradient descent](https://uclaacm.github.io/gradient-descent-visualiser/#playground)<br>[Playground Tensorflow](https://playground.tensorflow.org/)<br>[Linear Regression Overview](https://developers.google.com/machine-learning/crash-course/linear-regression)<br>[Loss Function](https://developers.google.com/machine-learning/crash-course/linear-regression/loss)<br>[Tune Model Parameters (Interactive)](https://developers.google.com/machine-learning/crash-course/linear-regression/parameters-exercise)|
 | 2    | 🧮 Gradient Descent and Its Variants                          | Batch, stochastic, and mini-batch gradient descent; Adam, AdamW, AdaGrad, RMSProp, step decay, cosine annealing, exponential LR schedules; debugging convergence and instability; optimizer selection under noisy gradients; optimizer performance benchmarking in TensorFlow/PyTorch                   | [ML Optimization Overview (Google)](https://developers.google.com/machine-learning/crash-course/reducing-loss/gradient-descent)<br><br>[Distill - Momentum](https://distill.pub/2017/momentum/) |
 | 3    | 🔍 Hyperparameter Tuning Strategies                           | Grid search, random search, validation strategies (K-fold, nested CV, hold-out); search space design (log/categorical); KerasTuner & Ray Tune intro                 | [KerasTuner Demo](https://keras.io/keras_tuner/)<br><br>[Ray Tune Docs](https://docs.ray.io/en/latest/tune/index.html) |
