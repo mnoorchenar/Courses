@@ -8,14 +8,9 @@ This section supports **Session 1: Introduction to Optimization in ML**, explori
 
 These interactive resources from Google’s ML Crash Course offer a hands-on introduction to optimization concepts using linear regression:
 
-- 🔢 [Linear Regression Overview](https://developers.google.com/machine-learning/crash-course/linear-regression)  
-  Understand how models learn from data through parameter adjustment.
-
-- 📉 [Loss Function](https://developers.google.com/machine-learning/crash-course/linear-regression/loss)  
-  Explore how loss functions measure prediction error and guide optimization.
-
-- ⚙️ [Tune Model Parameters (Interactive)](https://developers.google.com/machine-learning/crash-course/linear-regression/parameters-exercise)  
-  Try manually adjusting weights and biases to minimize loss in real time.
+🔢 [Linear Regression Overview](https://developers.google.com/machine-learning/crash-course/linear-regression)  
+📉 [Loss Function](https://developers.google.com/machine-learning/crash-course/linear-regression/loss)  
+⚙️ [Tune Model Parameters (Interactive)](https://developers.google.com/machine-learning/crash-course/linear-regression/parameters-exercise)  
 
 ---
 
