@@ -1,3 +1,21 @@
+<style>
+  table {
+    table-layout: fixed;
+    width: 100%;
+  }
+  th, td {
+    overflow-wrap: break-word;
+    word-break: break-word;
+  }
+
+  /* target the 3rd column in every table header AND body */
+  th:nth-child(3),
+  td:nth-child(3) {
+    width: 200px;        /* or whatever you choose */
+    /* you can also use %: width: 30%; */
+  }
+</style>
+
 # 📘 Machine Learning Optimization Strategies – Course Outline
 | Week | Title                                                        | Key Topics Covered                                                                                                                                                   | Interactive Link |
 |------|--------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
